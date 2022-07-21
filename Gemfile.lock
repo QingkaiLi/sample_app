@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/railstutorial/spork-rails.git
+  remote: https://github.com/railstutorial/spork-rails.git
   revision: 5db525af2f917047057f546bc1ac2574d1c6b11e
   specs:
     spork-rails (3.2.1)
@@ -177,7 +177,7 @@ GEM
       polyglot (>= 0.3.1)
     turbolinks (2.5.3)
       coffee-rails
-    tzinfo (0.3.42)
+    tzinfo (0.3.61)
     uglifier (2.6.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
